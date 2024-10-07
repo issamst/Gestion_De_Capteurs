@@ -1,0 +1,6 @@
+@gestion_de_capteurs_HostAddress = http://localhost:5288
+
+GET {{gestion_de_capteurs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

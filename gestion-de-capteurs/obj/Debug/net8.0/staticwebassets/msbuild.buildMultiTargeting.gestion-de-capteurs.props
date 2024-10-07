@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\gestion-de-capteurs.props" />
+</Project>

@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\serbo\\Desktop\\gestion_de_capteurs-2\\gestion-de-capteurs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3160CF-5610-440E-8A75-0A14D54BD9AF}|gestion-de-capteurs\\gestion-de-capteurs.csproj|c:\\users\\serbo\\desktop\\gestion_de_capteurs-2\\gestion-de-capteurs\\gestion-de-capteurs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3A3160CF-5610-440E-8A75-0A14D54BD9AF}|gestion-de-capteurs\\gestion-de-capteurs.csproj|solutionrelative:gestion-de-capteurs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3160CF-5610-440E-8A75-0A14D54BD9AF}|gestion-de-capteurs\\gestion-de-capteurs.csproj|c:\\users\\serbo\\desktop\\gestion_de_capteurs-2\\gestion-de-capteurs\\gestion-de-capteurs\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3160CF-5610-440E-8A75-0A14D54BD9AF}|gestion-de-capteurs\\gestion-de-capteurs.csproj|solutionrelative:gestion-de-capteurs\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3160CF-5610-440E-8A75-0A14D54BD9AF}|gestion-de-capteurs\\gestion-de-capteurs.csproj|c:\\users\\serbo\\desktop\\gestion_de_capteurs-2\\gestion-de-capteurs\\gestion-de-capteurs\\controllers\\authentification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3160CF-5610-440E-8A75-0A14D54BD9AF}|gestion-de-capteurs\\gestion-de-capteurs.csproj|solutionrelative:gestion-de-capteurs\\controllers\\authentification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3160CF-5610-440E-8A75-0A14D54BD9AF}|gestion-de-capteurs\\gestion-de-capteurs.csproj|c:\\users\\serbo\\desktop\\gestion_de_capteurs-2\\gestion-de-capteurs\\gestion-de-capteurs\\controllers\\sensorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3160CF-5610-440E-8A75-0A14D54BD9AF}|gestion-de-capteurs\\gestion-de-capteurs.csproj|solutionrelative:gestion-de-capteurs\\controllers\\sensorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3160CF-5610-440E-8A75-0A14D54BD9AF}|gestion-de-capteurs\\gestion-de-capteurs.csproj|c:\\users\\serbo\\desktop\\gestion_de_capteurs-2\\gestion-de-capteurs\\gestion-de-capteurs\\controllers_test\\sensorscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3160CF-5610-440E-8A75-0A14D54BD9AF}|gestion-de-capteurs\\gestion-de-capteurs.csproj|solutionrelative:gestion-de-capteurs\\controllers_test\\sensorscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3160CF-5610-440E-8A75-0A14D54BD9AF}|gestion-de-capteurs\\gestion-de-capteurs.csproj|c:\\users\\serbo\\desktop\\gestion_de_capteurs-2\\gestion-de-capteurs\\gestion-de-capteurs\\service\\authentificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3160CF-5610-440E-8A75-0A14D54BD9AF}|gestion-de-capteurs\\gestion-de-capteurs.csproj|solutionrelative:gestion-de-capteurs\\service\\authentificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3160CF-5610-440E-8A75-0A14D54BD9AF}|gestion-de-capteurs\\gestion-de-capteurs.csproj|c:\\users\\serbo\\desktop\\gestion_de_capteurs-2\\gestion-de-capteurs\\gestion-de-capteurs\\service\\sensorsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3160CF-5610-440E-8A75-0A14D54BD9AF}|gestion-de-capteurs\\gestion-de-capteurs.csproj|solutionrelative:gestion-de-capteurs\\service\\sensorsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\serbo\\Desktop\\gestion_de_capteurs-2\\gestion-de-capteurs\\gestion-de-capteurs\\appsettings.json",
+              "RelativeDocumentMoniker": "gestion-de-capteurs\\appsettings.json",
+              "ToolTip": "C:\\Users\\serbo\\Desktop\\gestion_de_capteurs-2\\gestion-de-capteurs\\gestion-de-capteurs\\appsettings.json",
+              "RelativeToolTip": "gestion-de-capteurs\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-07T14:40:40.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\serbo\\Desktop\\gestion_de_capteurs-2\\gestion-de-capteurs\\gestion-de-capteurs\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "gestion-de-capteurs\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\serbo\\Desktop\\gestion_de_capteurs-2\\gestion-de-capteurs\\gestion-de-capteurs\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "gestion-de-capteurs\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T14:40:31.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Authentification.cs",
+              "DocumentMoniker": "C:\\Users\\serbo\\Desktop\\gestion_de_capteurs-2\\gestion-de-capteurs\\gestion-de-capteurs\\Controllers\\Authentification.cs",
+              "RelativeDocumentMoniker": "gestion-de-capteurs\\Controllers\\Authentification.cs",
+              "ToolTip": "C:\\Users\\serbo\\Desktop\\gestion_de_capteurs-2\\gestion-de-capteurs\\gestion-de-capteurs\\Controllers\\Authentification.cs",
+              "RelativeToolTip": "gestion-de-capteurs\\Controllers\\Authentification.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T14:40:21.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SensorsController.cs",
+              "DocumentMoniker": "C:\\Users\\serbo\\Desktop\\gestion_de_capteurs-2\\gestion-de-capteurs\\gestion-de-capteurs\\Controllers\\SensorsController.cs",
+              "RelativeDocumentMoniker": "gestion-de-capteurs\\Controllers\\SensorsController.cs",
+              "ToolTip": "C:\\Users\\serbo\\Desktop\\gestion_de_capteurs-2\\gestion-de-capteurs\\gestion-de-capteurs\\Controllers\\SensorsController.cs",
+              "RelativeToolTip": "gestion-de-capteurs\\Controllers\\SensorsController.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T14:39:54.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SensorsControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\serbo\\Desktop\\gestion_de_capteurs-2\\gestion-de-capteurs\\gestion-de-capteurs\\Controllers_Test\\SensorsControllerTests.cs",
+              "RelativeDocumentMoniker": "gestion-de-capteurs\\Controllers_Test\\SensorsControllerTests.cs",
+              "ToolTip": "C:\\Users\\serbo\\Desktop\\gestion_de_capteurs-2\\gestion-de-capteurs\\gestion-de-capteurs\\Controllers_Test\\SensorsControllerTests.cs",
+              "RelativeToolTip": "gestion-de-capteurs\\Controllers_Test\\SensorsControllerTests.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAowGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T14:39:00.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthentificationService.cs",
+              "DocumentMoniker": "C:\\Users\\serbo\\Desktop\\gestion_de_capteurs-2\\gestion-de-capteurs\\gestion-de-capteurs\\Service\\AuthentificationService.cs",
+              "RelativeDocumentMoniker": "gestion-de-capteurs\\Service\\AuthentificationService.cs",
+              "ToolTip": "C:\\Users\\serbo\\Desktop\\gestion_de_capteurs-2\\gestion-de-capteurs\\gestion-de-capteurs\\Service\\AuthentificationService.cs",
+              "RelativeToolTip": "gestion-de-capteurs\\Service\\AuthentificationService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T14:38:34.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SensorsService.cs",
+              "DocumentMoniker": "C:\\Users\\serbo\\Desktop\\gestion_de_capteurs-2\\gestion-de-capteurs\\gestion-de-capteurs\\Service\\SensorsService.cs",
+              "RelativeDocumentMoniker": "gestion-de-capteurs\\Service\\SensorsService.cs",
+              "ToolTip": "C:\\Users\\serbo\\Desktop\\gestion_de_capteurs-2\\gestion-de-capteurs\\gestion-de-capteurs\\Service\\SensorsService.cs",
+              "RelativeToolTip": "gestion-de-capteurs\\Service\\SensorsService.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T14:38:28.651Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
